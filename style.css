@@ -1,0 +1,87 @@
+body{
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+h1{
+    font-family: 'Birthstone Bounce', cursive;
+    font-size:100px;
+    text-align: center;
+    background-color: #1f7d05;
+    margin: 0px;
+
+}
+h1 div{
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    margin:10%;
+    margin-top: 0;
+    background-color:dimgrey;
+    border-radius: 30px;
+}
+.important{
+    font-size: 50px;
+    margin: 20px;
+}
+#obj1{
+    background-image:url('https://upload.wikimedia.org/wikipedia/commons/4/4d/Crayones_cera.jpg');
+    margin: 0px;
+    width: 100%;
+    height:350px;
+}
+#obj2{
+    background-image:url('depositphotos_232719448-stock-photo-fashion-handbags-pale-pink-background.jpg');
+    margin: 0px;
+    width: 100%;
+    height:350px;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#obj3{
+    background-image:url('https://media.istockphoto.com/photos/miscellaneous-board-game-pieces-on-a-chess-board-picture-id619649940?k=20&m=619649940&s=612x612&w=0&h=jEQ1fudVcYI9z4jhAADgs_VnAQrnfLj_l0_I1_y6uAY=');
+    margin: 0px;
+    width: 100%;
+    height:350px;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#obj4{
+    background-image:url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bicycle-on-grassy-field-in-park-royalty-free-image-1589916167.jpg?crop=0.721xw:0.541xh;0,0.317xh&resize=1200:*');
+    margin: 0px;
+    width: 100%;
+    height:550px;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+#obj5{
+    background-image:url('https://cdn.thewirecutter.com/wp-content/uploads/2020/04/laptops-lowres-2x1--1024x512.jpg');
+    margin: 0px;
+    width: 100%;
+    height:550px;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+#obj6{
+    background-image:url('https://images.theconversation.com/files/226736/original/file-20180709-122271-nk7jdx.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop');
+    margin: 0px;
+    width: 100%;
+    height:350px;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+#obj7{
+    background-image:url('https://resizeimage.net/mypic/oo9r0SU50idy5Brj/HNEH4/adobestock_208000726.jpg');
+    margin: 0px;
+    width: 100%;
+    height:450px;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+#obj8{
+    background-image:url('https://resizeimage.net/mypic/UCsZjTNyGC0Csign/BBzck/cricket-bat-ball-place-cricket.jpg');
+    margin: 0px;
+    width: 100%;
+    height:450px;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
